@@ -3,7 +3,7 @@
 **a huge sports performance and wearable tech nerd**
 
 > technical support @ [runna](https://www.runna.com/)<br>
-> building various pet projects (see my highlights below)
+> building various pet projects (see my highlights below)<br>
 > https://devjam.es
 
 
