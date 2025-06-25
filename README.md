@@ -8,5 +8,5 @@
 
 
 #### 👟 [Master's Thesis: Impact of Carbon-plated Running Shoes on Rearfoot Motion](https://dr.lib.iastate.edu/entities/publication/7111e321-acdd-4e7a-8caf-ba3dcc7723bd)<br>
-MATLAB, Python, Computer Vision, ECG, R, SaS
+MATLAB, Python, Computer Vision, EMG, R, SaS
 
